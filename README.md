@@ -39,9 +39,7 @@ My personal website under construction
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-➕ Feature 3;
+:heavy_check_mark: Feature 1;
 
 ## :rocket: Technologies ##
 
